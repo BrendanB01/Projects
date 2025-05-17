@@ -11,8 +11,8 @@ from spotipy.oauth2 import SpotifyOAuth
 import pygame
 
 # --- Spotify Setup ---
-CLIENT_ID = 'd80f49dc9ae74b9a86ef62a092f9639d'
-CLIENT_SECRET = 'fdebc2c60dae44b0939952279d0db996'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://127.0.0.1:8888/callback'
 SCOPE = 'user-read-playback-state user-modify-playback-state user-read-currently-playing'
 
